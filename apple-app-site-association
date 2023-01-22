@@ -1,0 +1,13 @@
+{
+  "applinks": {
+    "details": [
+      {
+        "appID": "linsen.Algorithm.App",
+        "paths": [
+          "/ios_app/*"
+        ]
+      }
+    ],
+    "apps": []
+  }
+}
